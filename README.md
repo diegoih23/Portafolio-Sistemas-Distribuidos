@@ -33,8 +33,6 @@
 - [🧪 Prácticas y evidencias](#-prácticas-y-evidencias)
 - [📄 Documentación académica](#-documentación-académica)
 - [🧠 Aprendizajes](#-aprendizajes)
-- [🛠️ Cómo explorar el repositorio](#️-cómo-explorar-el-repositorio)
-- [🗺️ Organización futura](#️-organización-futura)
 - [👨‍🎓 Autor](#-autor)
 
 </details>
