@@ -94,23 +94,6 @@ La carpeta `Practica2` contiene los materiales asociados a esta actividad. Para 
 
 </details>
 
-### ➕ Nuevas prácticas
-
-Cuando se incorporen más actividades, se podrán documentar en esta sección con una estructura uniforme:
-
-<details>
-<summary><strong>Plantilla para documentar una práctica nueva</strong></summary>
-
-- **Nombre de la práctica:** título de la actividad.
-- **Objetivo:** qué se busca estudiar o resolver.
-- **Descripción:** resumen del trabajo realizado.
-- **Procedimiento:** pasos principales, si corresponde.
-- **Evidencias:** capturas, resultados, diagramas o archivos.
-- **Aprendizajes:** conceptos comprendidos y dificultades resueltas.
-- **Archivos:** enlaces a los materiales reales de la práctica.
-
-</details>
-
 ---
 
 ## 📄 Documentación académica
@@ -147,31 +130,6 @@ El portafolio está pensado para reflejar el aprendizaje desarrollado durante la
 
 > [!TIP]
 > Una buena evidencia académica no solo presenta el resultado: también explica el procedimiento, las decisiones y lo aprendido.
-
----
-
-## 🛠️ Cómo explorar el repositorio
-
-No necesitas instalar herramientas para consultar los documentos disponibles en GitHub.
-
-1. Abre la carpeta o el documento que quieras revisar.
-2. Consulta el contenido directamente en GitHub o descarga el archivo cuando lo necesites.
-3. Para documentos PDF, utiliza el visor de GitHub o un lector de PDF.
-4. Para revisar una práctica, entra en su carpeta y sigue las instrucciones que acompañen a sus archivos, si las hay.
-
----
-
-## 🗺️ Organización futura
-
-La estructura podrá evolucionar con el avance de la asignatura. Algunas mejoras de organización posibles son:
-
-- [ ] Añadir una descripción y un objetivo a cada práctica.
-- [ ] Vincular informes y evidencias desde el índice.
-- [ ] Incorporar diagramas o capturas cuando existan.
-- [ ] Registrar aprendizajes y conclusiones basados en cada actividad.
-- [ ] Mantener actualizados los enlaces y la estructura del repositorio.
-
-*La lista representa propuestas de organización, no funcionalidades ya implementadas.*
 
 ---
 
