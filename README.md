@@ -59,7 +59,11 @@ El portafolio se irá ampliando conforme se incorporen nuevas actividades, infor
 
 ```text
 Portafolio-Sistemas-Distribuidos/
-├── Practica2/
+├── Practica2/              # Comunicación mediante archivos
+├── Practica3/              # Sincronización con Spring Boot y React
+├── Practica4/              # IPC, sockets TCP y Ollama
+├── Practica5/              # MQTT, SQLite y RabbitMQ
+├── Practica6/              # Microservicios con RabbitMQ
 ├── Veintimilla_Juan_ape_ 1distribuidos.pdf
 └── README.md
 ```
@@ -69,7 +73,11 @@ Portafolio-Sistemas-Distribuidos/
 
 | Elemento | Descripción |
 |---|---|
-| `Practica2/` | Carpeta destinada a los archivos de la segunda práctica. Consulta su contenido directamente en el repositorio. |
+| `Practica2/` | Comunicación cliente-servidor mediante archivos. [README](./Practica2/) |
+| `Practica3/` | Simulaciones de sincronización con Spring Boot y React. [README](./Practica3/) |
+| `Practica4/` | IPC, sockets TCP, workers y Ollama. [README](./Practica4/) |
+| `Practica5/` | Telemetría MQTT, SQLite y RabbitMQ. [README](./Practica5/) |
+| `Practica6/` | Microservicio Spring Boot conectado a RabbitMQ. [README](./Practica6/) |
 | `Veintimilla_Juan_ape_ 1distribuidos.pdf` | Documento PDF académico disponible en la raíz del repositorio. |
 | `README.md` | Página principal que presenta y organiza el portafolio. |
 
@@ -79,16 +87,23 @@ Portafolio-Sistemas-Distribuidos/
 
 ## 🧪 Prácticas y evidencias
 
-### 📌 Práctica 2
+### 📌 Prácticas 2 a 6
 
 <details>
 <summary><strong>Consultar la carpeta de la práctica</strong></summary>
 
-La carpeta `Practica2` contiene los materiales asociados a esta actividad. Para conocer su contenido, abre el directorio en GitHub y revisa los archivos disponibles.
+Cada carpeta contiene un README independiente con requisitos, instalación,
+ejecución, verificación y apagado de su práctica.
 
-**Acceso:** [📂 Abrir carpeta Practica2](./Practica2/)
+| Práctica | Guía de ejecución |
+|---|---|
+| 2 | [📂 Abrir README](./Practica2/README.md) |
+| 3 | [📂 Abrir README](./Practica3/README.md) |
+| 4 | [📂 Abrir README](./Practica4/README.md) |
+| 5 | [📂 Abrir README](./Practica5/README.md) |
+| 6 | [📂 Abrir README](./Practica6/README.md) |
 
-> El tema específico, los objetivos, los procedimientos y las tecnologías de esta práctica deben describirse a partir de los archivos que contiene. No se detallan aquí para evitar atribuirle información que no esté documentada.
+> La Práctica 1 se conserva únicamente como trabajo escrito y no requiere una guía de ejecución.
 
 </details>
 
